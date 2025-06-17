@@ -1,4 +1,4 @@
-# 🚀 Portfolio Website
+# 🚀 ServiceSync
 
 _ServiceSync is a web application for Customer Relationship Management (CRM) that connects requesters and service providers, facilitating problem resolution by automatically notifying the service provider._
 
@@ -14,11 +14,11 @@ _On Facebook, finding a professional to address your problem can require extensi
 
 ## ✨ Feature
 
-- ✅ Customer Management
+1. ✅ Customer Management
       - Easily manage customer accounts, service requests, and communication.
-- ✅ Service Provider Tools
+2. ✅ Service Provider Tools
       - Streamline operations with powerful service management and tracking tools.
-- ✅ Admin Control
+3. ✅ Admin Control
       - Comprehensive oversight and management of the entire service ecosystem.
 
 ---
